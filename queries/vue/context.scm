@@ -1,6 +1,6 @@
-
 ([
-  (start_tag)
   (template_element)
   (element)
-  ] @context)
+  (start_tag)
+  (script_element)
+] @context)
